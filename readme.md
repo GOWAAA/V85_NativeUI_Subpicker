@@ -1,9 +1,9 @@
 This repo shows you how you can use different sets of Native UI buttons to create multi-level UI buttons to provide more choices in the filters. 
 
-![image-20200411210001326](./img/image-20200411210001326.png)
+![image1](/instagram_filter0.png)
 
-![image-20200411210020244](./img/image-20200411210020244.png)
+![image2](/instagram_filter1.png)
 
-![image-20200411210041660](./img/image-20200411210041660.png)
+![image3](/instagram_filter2.png)
 
-![image-20200411210053356](./img/image-20200411210053356.png)
+![image4](/instagram_filter3.png)
